@@ -1,0 +1,15 @@
+jupyter
+jupyterlab
+
+ipympl
+matplotlib
+seaborn
+
+numpy
+pandas
+scipy
+sklearn
+sympy
+
+requests
+beautifulsoup4
